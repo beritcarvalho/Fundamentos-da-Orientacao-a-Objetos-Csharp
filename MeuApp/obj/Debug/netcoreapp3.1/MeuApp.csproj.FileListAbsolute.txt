@@ -1,0 +1,13 @@
+C:\estudos\fundamentoscsharp-baltaio\Fundamentos-da-Orientacao-a-Objetos-Csharp\MeuApp\bin\Debug\netcoreapp3.1\MeuApp.exe
+C:\estudos\fundamentoscsharp-baltaio\Fundamentos-da-Orientacao-a-Objetos-Csharp\MeuApp\bin\Debug\netcoreapp3.1\MeuApp.deps.json
+C:\estudos\fundamentoscsharp-baltaio\Fundamentos-da-Orientacao-a-Objetos-Csharp\MeuApp\bin\Debug\netcoreapp3.1\MeuApp.runtimeconfig.json
+C:\estudos\fundamentoscsharp-baltaio\Fundamentos-da-Orientacao-a-Objetos-Csharp\MeuApp\bin\Debug\netcoreapp3.1\MeuApp.runtimeconfig.dev.json
+C:\estudos\fundamentoscsharp-baltaio\Fundamentos-da-Orientacao-a-Objetos-Csharp\MeuApp\bin\Debug\netcoreapp3.1\MeuApp.dll
+C:\estudos\fundamentoscsharp-baltaio\Fundamentos-da-Orientacao-a-Objetos-Csharp\MeuApp\bin\Debug\netcoreapp3.1\MeuApp.pdb
+C:\estudos\fundamentoscsharp-baltaio\Fundamentos-da-Orientacao-a-Objetos-Csharp\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.csproj.AssemblyReference.cache
+C:\estudos\fundamentoscsharp-baltaio\Fundamentos-da-Orientacao-a-Objetos-Csharp\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.AssemblyInfoInputs.cache
+C:\estudos\fundamentoscsharp-baltaio\Fundamentos-da-Orientacao-a-Objetos-Csharp\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.AssemblyInfo.cs
+C:\estudos\fundamentoscsharp-baltaio\Fundamentos-da-Orientacao-a-Objetos-Csharp\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.csproj.CoreCompileInputs.cache
+C:\estudos\fundamentoscsharp-baltaio\Fundamentos-da-Orientacao-a-Objetos-Csharp\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.dll
+C:\estudos\fundamentoscsharp-baltaio\Fundamentos-da-Orientacao-a-Objetos-Csharp\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.pdb
+C:\estudos\fundamentoscsharp-baltaio\Fundamentos-da-Orientacao-a-Objetos-Csharp\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.genruntimeconfig.cache
